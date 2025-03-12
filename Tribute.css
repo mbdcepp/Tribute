@@ -1,0 +1,13 @@
+#main {
+    background-color: pink;
+    margin: 30px 0;
+    font-family: sans-serif;
+     font-size: 16px;
+     font-weight: 300px;
+     text-align: center;
+   box-sizing: border-box;
+    }
+#title {
+   font-size: 28px;
+   color: Navy;
+}
